@@ -21,3 +21,4 @@ C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderI
 C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.dll
 C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.pdb
 C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.genruntimeconfig.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.yml

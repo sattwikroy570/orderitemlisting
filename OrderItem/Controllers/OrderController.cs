@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 using OrderItem.Models;
 using System.Net.Http;
 using Newtonsoft.Json;
+using Microsoft.AspNetCore.Authorization;
 
 namespace OrderItem.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class OrderController : ControllerBase
     {
         [HttpGet("{id}")]

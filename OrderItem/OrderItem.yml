@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: dnazureacrcase0
-        image: dnazureacrcase0.azurecr.io/dnazureacroder:latest
+        image: dnazureacrcase0.azurecr.io/orderitem:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:

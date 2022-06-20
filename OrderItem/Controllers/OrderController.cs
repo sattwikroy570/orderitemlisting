@@ -13,7 +13,6 @@ namespace OrderItem.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class OrderController : ControllerBase
     {
         [HttpGet("{id}")]
